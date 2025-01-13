@@ -3,11 +3,10 @@
 ## api :
 - https://islamapi.vercel.app/
 
-##  direct-json-content : 
-
-# files dir :  https://github.com/haseebllc/quran-hadith-json
+#  direct-json-content (github) : 
+- files dir :  https://github.com/haseebllc/quran-hadith-json
  
-# Quran-json-content : 
+### Quran-json-content : 
 - quran meteadata : https://raw.githubusercontent.com/haseebllc/quran-hadith-json/refs/heads/main/quran/metadata.json
 - quran-in-language : https://raw.githubusercontent.com/haseebllc/quran-hadith-json/refs/heads/main/quran/edition/{language}/{version}.json
 ### language examples :
