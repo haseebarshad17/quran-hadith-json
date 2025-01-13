@@ -1,6 +1,6 @@
 # Free Quran Hadith json files | API Service with Multiple Languages (95+) & Multiple grade
 
-## api :
+## direct api (next-js) :
 - https://islamapi.vercel.app/
 
 ##  direct-json-content (github) : 
