@@ -1,9 +1,9 @@
-## Free Quran Hadith json files | API Service with Multiple Languages (95+) & Multiple grade
+# Free Quran Hadith json files | API Service with Multiple Languages (95+) & Multiple grade
 
 ## api :
 - https://islamapi.vercel.app/
 
-#  direct-json-content (github) : 
+##  direct-json-content (github) : 
 - files dir :  https://github.com/haseebllc/quran-hadith-json
  
 ### Quran-json-content : 
@@ -14,7 +14,7 @@
 - arabic-latin-script : https://raw.githubusercontent.com/haseebllc/quran-hadith-json/refs/heads/main/quran/edition/Arabic/array_la.json
 - arabic-latin-diacritical-script : https://raw.githubusercontent.com/haseebllc/quran-hadith-json/refs/heads/main/quran/edition/Achinese/array_lad.json
 
-# Hadith-json-content :
+## Hadith-json-content :
 - hadith all-books meteadata : https://raw.githubusercontent.com/haseebllc/quran-hadith-json/refs/heads/main/hadith/book-wise/metadata.json
 - hadith specific-book metadata : https://raw.githubusercontent.com/haseebllc/quran-hadith-json/refs/heads/main/hadith/book-wise/{book-name}/metadata.json
 ### specific-book metadata example :
